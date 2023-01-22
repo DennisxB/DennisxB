@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dkb116
+- 👋 Hi, I’m Dennis 
 - 👀 I’m interested in ML, DL and MLOPs
 - 🌱 I’m currently learning Software Engineering in ALX SE Programme.
 - 📚 I'm currently reading the Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow to further hone my skills in ML
@@ -6,6 +6,6 @@
 - 📫 How to reach me dkb7826@gmail.com
 
 <!---
-dkb116/dkb116 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DennisxB/DennisxB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
